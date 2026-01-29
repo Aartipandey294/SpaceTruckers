@@ -1,0 +1,17 @@
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Infrastructure.deps.json
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Infrastructure.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Infrastructure.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Application.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Domain.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Domain.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\bin\Debug\net8.0\SpaceTruckers.Application.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.AssemblyInfo.cs
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTru.43E5F518.Up2Date
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\refint\SpaceTruckers.Infrastructure.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\SpaceTruckers.Infrastructure.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Infrastructure\obj\Debug\net8.0\ref\SpaceTruckers.Infrastructure.dll

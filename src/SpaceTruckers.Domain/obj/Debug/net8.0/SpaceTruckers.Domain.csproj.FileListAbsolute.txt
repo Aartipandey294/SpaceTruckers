@@ -1,0 +1,11 @@
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\bin\Debug\net8.0\SpaceTruckers.Domain.deps.json
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\bin\Debug\net8.0\SpaceTruckers.Domain.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\bin\Debug\net8.0\SpaceTruckers.Domain.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\SpaceTruckers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\SpaceTruckers.Domain.AssemblyInfoInputs.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\SpaceTruckers.Domain.AssemblyInfo.cs
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\SpaceTruckers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\SpaceTruckers.Domain.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\refint\SpaceTruckers.Domain.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\SpaceTruckers.Domain.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Domain\obj\Debug\net8.0\ref\SpaceTruckers.Domain.dll

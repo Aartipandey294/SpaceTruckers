@@ -1,0 +1,15 @@
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\bin\Debug\net8.0\SpaceTruckers.Application.deps.json
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\bin\Debug\net8.0\SpaceTruckers.Application.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\bin\Debug\net8.0\SpaceTruckers.Application.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\bin\Debug\net8.0\SpaceTruckers.Domain.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\bin\Debug\net8.0\SpaceTruckers.Domain.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.csproj.AssemblyReference.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.AssemblyInfoInputs.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.AssemblyInfo.cs
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.csproj.CoreCompileInputs.cache
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTru.AF63D44B.Up2Date
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\refint\SpaceTruckers.Application.dll
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\SpaceTruckers.Application.pdb
+C:\Users\HMC9264\Downloads\new\SpaceTruckers\SpaceTruckers\src\SpaceTruckers.Application\obj\Debug\net8.0\ref\SpaceTruckers.Application.dll

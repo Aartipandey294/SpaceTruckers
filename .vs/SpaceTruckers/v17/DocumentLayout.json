@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A7B8C9-6789-ABCD-EF01-234567890123}|tests\\SpaceTruckers.Application.Tests\\SpaceTruckers.Application.Tests.csproj|c:\\users\\hmc9264\\downloads\\new\\spacetruckers\\spacetruckers\\tests\\spacetruckers.application.tests\\spacetruckers.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6A7B8C9-6789-ABCD-EF01-234567890123}|tests\\SpaceTruckers.Application.Tests\\SpaceTruckers.Application.Tests.csproj|solutionrelative:tests\\spacetruckers.application.tests\\spacetruckers.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|c:\\users\\hmc9264\\downloads\\new\\spacetruckers\\spacetruckers\\src\\spacetruckers.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|solutionrelative:src\\spacetruckers.api\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|c:\\users\\hmc9264\\downloads\\new\\spacetruckers\\spacetruckers\\src\\spacetruckers.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|solutionrelative:src\\spacetruckers.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|c:\\users\\hmc9264\\downloads\\new\\spacetruckers\\spacetruckers\\src\\spacetruckers.api\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|solutionrelative:src\\spacetruckers.api\\controllers\\routescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|c:\\users\\hmc9264\\downloads\\new\\spacetruckers\\spacetruckers\\src\\spacetruckers.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E5F6A7-4567-89AB-CDEF-012345678901}|src\\SpaceTruckers.Api\\SpaceTruckers.Api.csproj|solutionrelative:src\\spacetruckers.api\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-1234-5678-9ABC-DEF012345678}|src\\SpaceTruckers.Domain\\SpaceTruckers.Domain.csproj|c:\\users\\hmc9264\\downloads\\new\\spacetruckers\\spacetruckers\\src\\spacetruckers.domain\\aggregates\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-1234-5678-9ABC-DEF012345678}|src\\SpaceTruckers.Domain\\SpaceTruckers.Domain.csproj|solutionrelative:src\\spacetruckers.domain\\aggregates\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpaceTruckers.Application.Tests",
+              "DocumentMoniker": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\tests\\SpaceTruckers.Application.Tests\\SpaceTruckers.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "tests\\SpaceTruckers.Application.Tests\\SpaceTruckers.Application.Tests.csproj",
+              "ToolTip": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\tests\\SpaceTruckers.Application.Tests\\SpaceTruckers.Application.Tests.csproj",
+              "RelativeToolTip": "tests\\SpaceTruckers.Application.Tests\\SpaceTruckers.Application.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T04:29:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\SpaceTruckers.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\SpaceTruckers.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:15:44.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoutesController.cs",
+              "DocumentMoniker": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\RoutesController.cs",
+              "RelativeDocumentMoniker": "src\\SpaceTruckers.Api\\Controllers\\RoutesController.cs",
+              "ToolTip": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\RoutesController.cs",
+              "RelativeToolTip": "src\\SpaceTruckers.Api\\Controllers\\RoutesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwFQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:04:49.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "src\\SpaceTruckers.Api\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "src\\SpaceTruckers.Api\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAQwEcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T04:01:11.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "src\\SpaceTruckers.Api\\Controllers\\DriversController.cs",
+              "ToolTip": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Api\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "src\\SpaceTruckers.Api\\Controllers\\DriversController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwEcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:50:05.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Domain\\Aggregates\\Trip.cs",
+              "RelativeDocumentMoniker": "src\\SpaceTruckers.Domain\\Aggregates\\Trip.cs",
+              "ToolTip": "C:\\Users\\HMC9264\\Downloads\\new\\SpaceTruckers\\SpaceTruckers\\src\\SpaceTruckers.Domain\\Aggregates\\Trip.cs",
+              "RelativeToolTip": "src\\SpaceTruckers.Domain\\Aggregates\\Trip.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAUwJ8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T03:43:50.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
